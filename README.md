@@ -24,8 +24,8 @@ If you are developing a production application, we recommend using TypeScript an
    npm install
 5) Запустите JSON-сервер: Команда json-server используется для запуска фейкового REST API, который будет читать данные из файла public/data.json.
   Для запуска JSON-сервера выполните команду:
-  ```bash 
-  json-server --watch public/data.json --port 3001
+   ```bash 
+   json-server --watch public/data.json --port 3001
 6) Запустите ваш проект: После того как JSON-сервер запустится, вы можете запустить сам проект. Обычно для этого используется команда, прописанная в package.json:
    ```bash
    npm run dev
