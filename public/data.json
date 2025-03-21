@@ -1,0 +1,275 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Ноутбук ASUS VivoBook 15",
+        "price": 45000,
+        "description": "15.6 дюймов, Intel Core i5, 8 ГБ ОЗУ, 512 ГБ SSD",
+        "image": "https://cdn.citilink.ru/t9cQMY9jFXwTzpNlKp6Z_rJw3ay9ol8F6c36ZTI8CwY/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/product-images/8c508216-c010-4993-b805-5767f572d487.jpg",
+        "category": "Электроника",
+        "rating": 4.7
+      },
+      {
+        "id": 2,
+        "title": "Смартфон Samsung Galaxy S21",
+        "price": 60000,
+        "description": "6.2 дюймов, 128 ГБ, Phantom Gray",
+        "image": "ru-galaxy-s21-5g-g991-sm-g991bzvgser-368806379.avif",
+        "category": "Электроника",
+        "rating": 4.8
+      },
+      {
+        "id": 3,
+        "title": "Наушники Sony WH-1000XM4",
+        "price": 25000,
+        "description": "Беспроводные, шумоподавление, черный",
+        "image": "sony-wh-1000xm4-silver.jpg",
+        "category": "Электроника",
+        "rating": 4.9
+      },
+      {
+        "id": 4,
+        "title": "Фитнес-браслет Xiaomi Mi Band 6",
+        "price": 3000,
+        "description": "Цветной AMOLED-экран, черный",
+        "image": "7e308263ad7611ebb2bf3cecef20832b_b0ebf4c5ad7711ebb2bf3cecef20832b.png",
+        "category": "Электроника",
+        "rating": 4.6
+      },
+      {
+        "id": 5,
+        "title": "Планшет Apple iPad Air",
+        "price": 55000,
+        "description": "10.9 дюймов, 64 ГБ, Space Gray",
+        "image": "bzepkhcgzewteoke7sl23pfl2jockuac.jpg",
+        "category": "Электроника",
+        "rating": 4.8
+      },
+      {
+        "id": 6,
+        "title": "Фотоаппарат Canon EOS R6",
+        "price": 150000,
+        "description": "Зеркальный, 20 Мп, 4K видео",
+        "image": "11_EOS-R6-Mark-II_FrontSlantLeft_RF24-105F4L_1_.jpg",
+        "category": "Электроника",
+        "rating": 4.9
+      },
+      {
+        "id": 7,
+        "title": "Монитор Dell UltraSharp 27",
+        "price": 40000,
+        "description": "27 дюймов, 4K, IPS",
+        "image": "https://cdn.citilink.ru/iDtRVrYuPJlD_kYpIE1LMpwMssy8I4HrmUxitnpFbHE/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/product-images/5eb5bb07-c5be-4ed1-9241-a92159c83ae9.jpg",
+        "category": "Электроника",
+        "rating": 4.7
+      },
+      {
+        "id": 8,
+        "title": "Игровая мышь Logitech G502",
+        "price": 5000,
+        "description": "11 программируемых кнопок, RGB",
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/0/0/6f1da8a82cc353235509886741397d0d/0991ca8c863afd7dd77f0e8f50fd6739c94a3bb8c6d9683def7c60d98507cd03.jpg.webp",
+        "category": "Электроника",
+        "rating": 4.8
+      },
+      {
+        "id": 9,
+        "title": "Клавиатура Keychron K6",
+        "price": 7000,
+        "description": "Механическая, Bluetooth, 65%",
+        "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/454f566537f401dab4c72d9289bd2e41/3ef28e2e70ab3a137902aac044f72d0a2aba5fea343de3db15e0f353c35b0d79.jpg.webp",
+        "category": "Электроника",
+        "rating": 4.7
+      },
+      {
+        "id": 10,
+        "title": "Колонка JBL Flip 5",
+        "price": 8000,
+        "description": "Портативная, водонепроницаемая, синий",
+        "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/fa799d39de87899e1db45604265e7560/35a1de49e72dc901fbd8a0859c4b50b36d142774d78ed55efc75d57a709935ba.jpg.webp",
+        "category": "Электроника",
+        "rating": 4.6
+      },
+      {
+        "id": 11,
+        "title": "Футболка мужская",
+        "price": 1500,
+        "description": "Хлопок, черный",
+        "image": "https://storage.vsemayki.ru/images/0/3/3107/3107661/previews/people_4_manshort_back_black_500.jpg",
+        "category": "Одежда",
+        "rating": 4.5
+      },
+      {
+        "id": 12,
+        "title": "Джинсы женские",
+        "price": 3000,
+        "description": "Скинни, синий",
+        "image": "https://cdn.finnflare.com/upload/resize_cache/full_size/FWD/202/836_1214_2/FWD15000_202_100.webp?cdn=1695755360",
+        "category": "Одежда",
+        "rating": 4.6
+      },
+      {
+        "id": 13,
+        "title": "Куртка зимняя",
+        "price": 10000,
+        "description": "Пуховая, черный",
+        "image": "https://cdn.finnflare.com/upload/resize_cache/full_size/FWC/200/836_1214_2/FWC11085_200_100.webp?cdn=1669878634",
+        "category": "Одежда",
+        "rating": 4.7
+      },
+      {
+        "id": 14,
+        "title": "Кроссовки Nike Air Max",
+        "price": 8000,
+        "description": "Беговые, белый",
+        "image": "https://restokk.ru/images/catalog/28936/krossovki-muzhskie-nike-air-max-2023-white-grey-4.jpg",
+        "category": "Одежда",
+        "rating": 4.8
+      },
+      {
+        "id": 15,
+        "title": "Рюкзак Herschel",
+        "price": 5000,
+        "description": "Повседневный, синий",
+        "image": "https://www.blacksides.ru/upload/resize_cache/iblock/b11/900_1200_1/g0p96u38p0ohcvp1t3n4g18dekib9fp6.jpg",
+        "category": "Одежда",
+        "rating": 4.6
+      },
+      {
+        "id": 16,
+        "title": "Часы Casio G-Shock",
+        "price": 12000,
+        "description": "Ударопрочные, черный",
+        "image": "https://cdn.sportmaster.ru/upload/mdm/media_content/resize/d54/1500_2000_0f94/83604450299.jpg",
+        "category": "Одежда",
+        "rating": 4.7
+      },
+      {
+        "id": 17,
+        "title": "Очки Ray-Ban",
+        "price": 9000,
+        "description": "Солнцезащитные, черный",
+        "image": "https://static.cdn.oskelly.ru/product/2057248/item-a23ee00b-791c-459d-aa0f-80123a2c7481.jpg",
+        "category": "Одежда",
+        "rating": 4.8
+      },
+      {
+        "id": 18,
+        "title": "Шапка вязаная",
+        "price": 1000,
+        "description": "Шерсть, серый",
+        "image": "https://basket-10.wbbasket.ru/vol1378/part137827/137827872/images/big/1.webp",
+        "category": "Одежда",
+        "rating": 4.5
+      },
+      {
+        "id": 19,
+        "title": "Платье вечернее",
+        "price": 7000,
+        "description": "Шелк, черный",
+        "image": "https://st-erme.ru/upload/iblock/adf/boavje2blkg678348hg65ykfwgv3p7ym.jpeg",
+        "category": "Одежда",
+        "rating": 4.7
+      },
+      {
+        "id": 20,
+        "title": "Сумка женская",
+        "price": 6000,
+        "description": "Кожа, бежевый",
+        "image": "https://www.sumka-style.ru/upload/iblock/b69/xme5f86qbhuz2e0zk3o4xpd99riekd95/9261_1C-l.apricot-Cocy-1750p-9x20x14-h9-_1_.JPG",
+        "category": "Одежда",
+        "rating": 4.6
+      },
+      {
+        "id": 21,
+        "title": "Книга '1984'",
+        "price": 500,
+        "description": "Джордж Оруэлл",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjiXHdx98Gn0qv1oARBGQTaOSL4fVgpYwjVQ&s",
+        "category": "Книги",
+        "rating": 4.9
+      },
+      {
+        "id": 22,
+        "title": "Книга 'Мастер и Маргарита'",
+        "price": 600,
+        "description": "Михаил Булгаков",
+        "image": "https://ndc.book24.ru/resize/820x1180/pim/products/images/1f/06/018f5e19-066e-7b1e-a838-d8f1121e1f06.jpg",
+        "category": "Книги",
+        "rating": 4.8
+      },
+      {
+        "id": 23,
+        "title": "Книга 'Гарри Поттер и Философский камень'",
+        "price": 700,
+        "description": "Джоан Роулинг",
+        "image": "https://content.img-gorod.ru/pim/products/images/62/a8/018f5cb0-84aa-78c9-a36c-9d49401462a8.jpg?width=0&height=1200&fit=bounds",
+        "category": "Книги",
+        "rating": 4.9
+      },
+      {
+        "id": 24,
+        "title": "Книга 'Война и мир'",
+        "price": 800,
+        "description": "Лев Толстой",
+        "image": "https://ndc.book24.ru/resize/410x590/pim/products/images/7a/5e/018fa14e-f932-7073-8138-63b3e6437a5e.jpg",
+        "category": "Книги",
+        "rating": 4.7
+      },
+      {
+        "id": 25,
+        "title": "Книга 'Преступление и наказание'",
+        "price": 550,
+        "description": "Федор Достоевский",
+        "image": "https://content.img-gorod.ru/pim/products/images/8f/c3/018f608f-4be1-79b8-a9e6-1ae1eba98fc3.jpg?width=336&height=480&fit=bounds",
+        "category": "Книги",
+        "rating": 4.8
+      },
+      {
+        "id": 26,
+        "title": "Книга 'Маленький принц'",
+        "price": 400,
+        "description": "Антуан де Сент-Экзюпери",
+        "image": "https://imo10.labirint.ru/books/166977/cover.jpg/242-0",
+        "category": "Книги",
+        "rating": 4.9
+      },
+      {
+        "id": 27,
+        "title": "Книга 'Алхимик'",
+        "price": 650,
+        "description": "Пауло Коэльо",
+        "image": "https://content.img-gorod.ru/pim/products/images/38/97/018fa154-84f5-74b7-9376-2fb5838c3897.jpg?width=336&height=480&fit=bounds",
+        "category": "Книги",
+        "rating": 4.7
+      },
+      {
+        "id": 28,
+        "title": "Книга 'Три товарища'",
+        "price": 750,
+        "description": "Эрих Мария Ремарк",
+        "image": "https://ndc.book24.ru/resize/410x590/pim/products/images/10/1d/0190e2dd-e926-7325-adda-3ffaf15e101d.jpg",
+        "category": "Книги",
+        "rating": 4.8
+      },
+      {
+        "id": 29,
+        "title": "Книга 'Тень горы'",
+        "price": 900,
+        "description": "Грегори Дэвид Робертс",
+        "image": "https://www.litres.ru/pub/c/cover/17042658.jpg",
+        "category": "Книги",
+        "rating": 4.7
+      },
+      {
+        "id": 30,
+        "title": "Книга 'Шантарам'",
+        "price": 850,
+        "description": "Грегори Дэвид Робертс",
+        "image": "https://www.litres.ru/pub/c/cover/5815016.jpg",
+        "category": "Книги",
+        "rating": 4.8
+      }
+    ]
+  }
+  
