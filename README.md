@@ -12,10 +12,10 @@ Currently, two official plugins are available:
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
 Шаги для запуска проекта:
-1) Клонируйте репозиторий с GitHub: Если вы еще не клонировали репозиторий, выполните команду, чтобы получить его на ваш локальный компьютер:
-  git clone https://github.com/your-username/your-repository.git
+1) Клонируйте репозиторий с GitHub:
+  git clone https://github.com/Alpha-x-prog/independent_work1.git
 2) Перейдите в директорию проекта: После клонирования репозитория, перейдите в его папку:
-  cd your-repository
+  cd my-shop
 3) Установите зависимости: Убедитесь, что у вас установлен Node.js и npm. Если они не установлены, скачайте их с официального сайта: Node.js.
   Затем установите зависимости проекта, запустив команду:
   npm install
