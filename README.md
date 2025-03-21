@@ -13,9 +13,11 @@ If you are developing a production application, we recommend using TypeScript an
 
 Шаги для запуска проекта:
 1) Клонируйте репозиторий с GitHub:
-   ```bash  git clone https://github.com/Alpha-x-prog/independent_work1.git
+   ```bash
+   git clone https://github.com/Alpha-x-prog/independent_work1.git
 3) Перейдите в директорию проекта: После клонирования репозитория, перейдите в его папку:
-  ```bash  cd my-shop
+```bash
+cd my-shop
 4) Установите зависимости: Убедитесь, что у вас установлен Node.js и npm. Если они не установлены, скачайте их с официального сайта: Node.js.
   Затем установите зависимости проекта, запустив команду:
    ```bash npm install
